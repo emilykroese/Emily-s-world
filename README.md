@@ -1,5 +1,9 @@
 _Kopieer en plak hier jouw README.md uit sprint 1._
+
+
 9 nov 
+
+
 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
 een source hosting platform is een online platform waar je de codes van je website kunt opslaan. Je kunt ze hier aanpassen en delen met anderen. Ook kan je hier je website publiceren. Ik heb gekozen voor GitHub omdat ik er vorig jaar ook mee gewerkt had en daardoor al een beetje erover weet. En de docenten raadde aan dit te gebruiken.
