@@ -32,3 +32,26 @@ Schetsen oefeningen:
 <img width="138" height="247" alt="WhatsApp Image 2026-11-16 at 19 59 41" src="https://github.com/user-attachments/assets/221f4da6-9ef9-42b8-9419-920b7f319524" />
 
 
+13 nov
+
+Oefenen met coderen. Ik heb in de les verschillende codeer opdrachten gemaakt. Het heeft me zeker geholpen om weer een beetje te herinneren hoe coderen moest. De basics zijn nu weer wat verser in mijn hoofd.
+
+<img width="1245" height="690" alt="Scherm­afbeelding 2026-11-15 om 15 09 38" src="https://github.com/user-attachments/assets/6a54e603-7dd0-4207-b071-a3dc03ee98d4" />
+
+<img width="1512" height="855" alt="Scherm­afbeelding 2026-11-15 om 13 46 02" src="https://github.com/user-attachments/assets/3d10bf28-96c1-4710-9a93-e6d5880edd9e" />
+
+
+
+<img width="1036" height="690" alt="Scherm­afbeelding 2026-11-13 om 12 26 13" src="https://github.com/user-attachments/assets/578fab4c-c8d4-4dbd-a8b0-72300d550b4b" />
+
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-11-13 om 21 43 28" src="https://github.com/user-attachments/assets/44ea03e6-bc13-4f88-9eb2-26fa203ab1a1" />
+
+<img width="1195" height="782" alt="Scherm­afbeelding 2026-11-15 om 15 25 30" src="https://github.com/user-attachments/assets/f80cc522-eda2-4832-9d03-d8cca17f620e" />
+
+<img width="1228" height="720" alt="Scherm­afbeelding 2026-11-15 om 15 40 57" src="https://github.com/user-attachments/assets/a53729d3-ce23-483f-b29b-219b781aee4b" />
+
+
+
+
+
+
