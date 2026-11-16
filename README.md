@@ -17,10 +17,14 @@ Via VScodium kan ik aanpassingen maken aan mijn website.
 Ik moest een menu van een restaurant bruikbaar maken. Ik heb deze nieuwe indeling gemaakt. Voor de theorie had ik een progressiever bovenin gemaakt en de knoppen die toevoegen zeggen een felle kleur gegeven.
 <img width="553" height="573" alt="Scherm­afbeelding 2026-11-15 om 14 53 02" src="https://github.com/user-attachments/assets/84611e4f-2676-4f7c-83f5-cb622bd4ebcd" />
 
-<img width="336" height="648" alt="WhatsApp Image 2026-11-15 at 15 01 36" src="https://github.com/user-attachments/assets/5fa20921-8e41-41cb-ac2c-4ffa34ac4d70" />
+Schetsen oefeningen:
 
-<img width="353" height="673" alt="WhatsApp Image 2026-11-15 at 15 01 36 (1)" src="https://github.com/user-attachments/assets/ca8a019b-3d96-4864-925f-6b5c126845ce" />
+<img width="336" height="500" alt="WhatsApp Image 2026-11-15 at 15 01 36" src="https://github.com/user-attachments/assets/5fa20921-8e41-41cb-ac2c-4ffa34ac4d70" />
 
+<img width="353" height="500" alt="WhatsApp Image 2026-11-15 at 15 01 36 (1)" src="https://github.com/user-attachments/assets/ca8a019b-3d96-4864-925f-6b5c126845ce" />
 
+<img width="130" height="248" alt="WhatsApp Image 2026-11-16 at 19 59 28" src="https://github.com/user-attachments/assets/c589a169-45cb-421b-9e00-b519c2e13882" />
+
+<img width="138" height="247" alt="WhatsApp Image 2026-11-16 at 19 59 41" src="https://github.com/user-attachments/assets/221f4da6-9ef9-42b8-9419-920b7f319524" />
 
 
