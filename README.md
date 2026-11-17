@@ -63,6 +63,18 @@ Ik heb gekeken naar andere digital Gardens en heb geanalyseerd of ze "Webby" war
 
 <img width="2048" height="1536" alt="WhatsApp Image 2026-11-17 at 19 14 59" src="https://github.com/user-attachments/assets/c6142ee0-9648-4e9f-906a-9e8a847b4118" />
 
+Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+
+Een digitalegarden groeit eigenlijk altijd. Je kan hem altijd uitbreiden en er zit geen einde aan. Je kan aanpassingen maken wanneer je maar wilt en je kunt het aan anderen laten zien om hun mening te krijgen. Net als een echte tuin groeit je digital garden altijd. Het is daarnaast vrij voor creativiteit, je kunt ermee doen wat je wilt het is persoonlijk.
+
+Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+
+Veel interacties, veel contrast dus gewoon veel kleuren Enzo. Gewoon zo creatief mogelijk zijn, veel verschillende dingen geprobeerd.
+
+Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+
+--
+
 
 
 
