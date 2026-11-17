@@ -57,6 +57,13 @@ Voor de laatste opdracht had ik het makkelijkste uitgekozen, omdat ik nog niet z
 
 <img width="745" height="390" alt="Scherm­afbeelding 2026-11-15 om 15 40 57" src="https://github.com/user-attachments/assets/a53729d3-ce23-483f-b29b-219b781aee4b" />
 
+16 nov
+
+Ik heb gekeken naar andere digital Gardens en heb geanalyseerd of ze "Webby" waren. Het heeft me ook geholpen om inspiratie te krijgen voor mijn eigen digital garden
+
+<img width="2048" height="1536" alt="WhatsApp Image 2026-11-17 at 19 14 59" src="https://github.com/user-attachments/assets/c6142ee0-9648-4e9f-906a-9e8a847b4118" />
+
+
 
 
 
