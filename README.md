@@ -73,6 +73,45 @@ Veel interacties, veel contrast dus gewoon veel kleuren Enzo. Gewoon zo creatief
 
 Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 
+---------------
+17 nov
+
+Hier heb ik de presentatie gemaakt. Dit heeft me geholpen om een beetje een beeld te creëren 
+
+
+<img width="800" height="600" alt="Scherm­afbeelding 2026-11-17 om 12 44 18" src="https://github.com/user-attachments/assets/17c31d62-c4f6-414d-ab9a-468b3bec9faf" />
+
+<img width="800" height="600" alt="Scherm­afbeelding 2026-11-17 om 12 45 41" src="https://github.com/user-attachments/assets/37b156cb-7dc6-4a17-834d-19244fb5047a" />
+
+----
+Dit zijn de huiswerk opdrachten die ik had gemaakt voor light en dark mode. Ik vond het erg lastig om te maken en alles werkt zeker niet zoals het zou moeten werken maar ik heb er wel wat van geleerd. Zo snap ik "var" en de custom namen die je kunt gebruiken. 
+
+Hier ging ik eerst uitzoeken hoe je een light en dark knop kunt toevoegen:
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 14 28 49" src="https://github.com/user-attachments/assets/00227e1c-3afa-4226-98f7-a31d7be24ba8" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 14 39 23" src="https://github.com/user-attachments/assets/892cec03-b006-43b2-9848-c5bcda6adb89" />
+
+Hier ging ik met de kleuren experimenteren en hoe ik dark en light mode er verschillend uit kan laten zien. Ik struggelde hier erg lang mee maar heb het een soort van werkend gekregen.
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 15 00 16" src="https://github.com/user-attachments/assets/421f88b4-d7d7-4cf4-be8f-2e5d2a401a37" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 15 00 31" src="https://github.com/user-attachments/assets/670beae7-039b-4ca4-9421-de024dd9e91d" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 16 22 38" src="https://github.com/user-attachments/assets/b7d3ba31-1430-41f6-9918-07c42525752f" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 16 47 44" src="https://github.com/user-attachments/assets/902f0e00-2dff-4183-a0ec-fc32db94c8f3" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 17 07 56" src="https://github.com/user-attachments/assets/a50b08d2-5875-477f-b2ea-83783824f457" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 17 13 44" src="https://github.com/user-attachments/assets/d053a353-03a9-40bf-bb42-5eb9d311dedd" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 17 13 51" src="https://github.com/user-attachments/assets/f0b34738-4a06-43ec-9c28-e0ac46c60b61" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 17 14 02" src="https://github.com/user-attachments/assets/6ba89ab5-2791-4d65-90f1-e41154adbe60" />
+
+<img width="511" height="283" alt="Scherm­afbeelding 2026-11-17 om 17 16 40" src="https://github.com/user-attachments/assets/315ae448-4b0a-485a-a5e0-b4687ea26d27" />
+
 --
 
 Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
