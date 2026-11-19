@@ -131,6 +131,8 @@ Zelf heb ik later de vlaggen geprobeerd na te maken in codepen. Ook dit was niet
 
 <img width="511" height="320" alt="Scherm­afbeelding 2026-11-18 om 16 28 47" src="https://github.com/user-attachments/assets/b6fb94fb-3813-47e3-9ca5-f1f6dd3929ec" />
 
+<img width="511" height="140" alt="Scherm­afbeelding 2026-11-19 om 11 25 23" src="https://github.com/user-attachments/assets/8142f95e-a518-44d6-a7f1-40e90ec172fa" />
+
 
 
 
