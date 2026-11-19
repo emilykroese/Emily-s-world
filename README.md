@@ -114,6 +114,26 @@ Hier ging ik met de kleuren experimenteren en hoe ik dark en light mode er versc
 
 --
 
+
+18 nov
+
+Ik heb vandaag de extra lessen gevold. Ze hebben me erg geholpen met het begrijpen van de radiale en lineair gradiants en kleuren. Ik weet nu hoe ik bijvoorbeeld lijnen kan toevoegen, fades maken. Ook heb ik geleerd hoe ik lijnen kan draaien, met de degrees die ik kan toevoegen. Ik snap echter niet alles 100% maar de basis begrijp ik wel een beetje. Dit kan ik dus nu in mijn digital garden gaan toepassen.
+
+Hier gingen we eerst experimenteren met hoe je kleuren kunt opschrijven in de css. Er zijn hier veel verschillende manieren voor.
+
+<img width="511" height="320" alt="Scherm­afbeelding 2026-11-18 om 14 42 53" src="https://github.com/user-attachments/assets/98b27189-a5f8-4a18-8c86-d28180e325a9" />
+
+Hier gingen we experimenteren met de gradiants. Dit gedeelte vond ik erg lastig. 
+
+<img width="511" height="320" alt="Scherm­afbeelding 2026-11-18 om 15 57 17" src="https://github.com/user-attachments/assets/db045a6f-75f3-4a60-a129-ef068514d1f7" />
+
+Zelf heb ik later de vlaggen geprobeerd na te maken in codepen. Ook dit was niet makkelijk, maar een goede uitdaging. 
+
+<img width="511" height="320" alt="Scherm­afbeelding 2026-11-18 om 16 28 47" src="https://github.com/user-attachments/assets/b6fb94fb-3813-47e3-9ca5-f1f6dd3929ec" />
+
+
+
+
 Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
 Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?
 Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
