@@ -133,12 +133,22 @@ Zelf heb ik later de vlaggen geprobeerd na te maken in codepen. Ook dit was niet
 
 <img width="511" height="140" alt="Scherm­afbeelding 2026-11-19 om 11 25 23" src="https://github.com/user-attachments/assets/8142f95e-a518-44d6-a7f1-40e90ec172fa" />
 
-
+crazy 8 methode: het heeft me geholpen om wat ideeen te krijgen
+<img width="750" height="500" alt="WhatsApp Image 2026-11-19 at 16 20 09" src="https://github.com/user-attachments/assets/d8ab8903-5ba9-4094-8a3a-b1fca9f8d012" />
 
 
 Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
+
+Het idee van de gameboy was een goede, ook het idee met de playstation was een goede. 
+
 Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?
+
+
+
 Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
+
+Je zou pixelige typografie kunnen gebruiken die past bij het idee. Je zou de vorm van een gameboy kunnen maken of een playstation. 
+
 Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?
 Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
 
