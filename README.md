@@ -1,7 +1,7 @@
 _Kopieer en plak hier jouw README.md uit sprint 1._
 
 
-9 nov 
+<h2>9 nov </h2>
 
 
 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
@@ -16,7 +16,7 @@ Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt
 
 Via VScodium kan ik aanpassingen maken aan mijn website. 
 
-11 nov
+<h1> 11 nov </h1>
 
 Ik moest een menu van een restaurant bruikbaar maken. Ik heb deze nieuwe indeling gemaakt. Voor de theorie had ik een progressiever bovenin gemaakt en de knoppen die toevoegen zeggen een felle kleur gegeven.
 <img width="553" height="573" alt="Scherm­afbeelding 2026-11-15 om 14 53 02" src="https://github.com/user-attachments/assets/84611e4f-2676-4f7c-83f5-cb622bd4ebcd" />
@@ -32,7 +32,7 @@ Schetsen oefeningen:
 <img width="138" height="247" alt="WhatsApp Image 2026-11-16 at 19 59 41" src="https://github.com/user-attachments/assets/221f4da6-9ef9-42b8-9419-920b7f319524" />
 
 
-13 nov
+<h1> 13 nov </h1>
 
 Oefenen met coderen. Ik heb in de les verschillende codeer opdrachten gemaakt. Het heeft me zeker geholpen om weer een beetje te herinneren hoe coderen moest. De basics zijn nu weer wat verser in mijn hoofd.
 
@@ -57,7 +57,7 @@ Voor de laatste opdracht had ik het makkelijkste uitgekozen, omdat ik nog niet z
 
 <img width="745" height="390" alt="Scherm­afbeelding 2026-11-15 om 15 40 57" src="https://github.com/user-attachments/assets/a53729d3-ce23-483f-b29b-219b781aee4b" />
 
-16 nov
+ <h1> 16 nov </h1>
 
 Ik heb gekeken naar andere digital Gardens en heb geanalyseerd of ze "Webby" waren. Het heeft me ook geholpen om inspiratie te krijgen voor mijn eigen digital garden
 
@@ -74,7 +74,7 @@ Veel interacties, veel contrast dus gewoon veel kleuren Enzo. Gewoon zo creatief
 Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 
 ---------------
-17 nov
+ <h1> 17 nov </h1>
 
 Hier heb ik de presentatie gemaakt. Dit heeft me geholpen om een beetje een beeld te creëren 
 
@@ -115,7 +115,7 @@ Hier ging ik met de kleuren experimenteren en hoe ik dark en light mode er versc
 --
 
 
-18 nov
+<h1> 18 nov </h1>
 
 Ik heb vandaag de extra lessen gevold. Ze hebben me erg geholpen met het begrijpen van de radiale en lineair gradiants en kleuren. Ik weet nu hoe ik bijvoorbeeld lijnen kan toevoegen, fades maken. Ook heb ik geleerd hoe ik lijnen kan draaien, met de degrees die ik kan toevoegen. Ik snap echter niet alles 100% maar de basis begrijp ik wel een beetje. Dit kan ik dus nu in mijn digital garden gaan toepassen.
 
@@ -151,6 +151,26 @@ Je zou pixelige typografie kunnen gebruiken die past bij het idee. Je zou de vor
 
 Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?
 Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
+
+<h1> 19 nov </h1>
+
+Ik heb verschillende ideeen op schermen geschetst
+
+<img width="450" height="700" alt="WhatsApp Image 2026-11-20 at 09 02 44" src="https://github.com/user-attachments/assets/fd1e406b-73bf-4841-8d8f-5275852305be" />
+
+<img width="450" height="700" alt="WhatsApp Image 2026-11-20 at 09 02 44 (1)" src="https://github.com/user-attachments/assets/ba5794b3-c60d-4eb2-9352-0b19f76a424b" />
+
+Ik heb fonts en een kleurenpalet gemaakt
+
+Voor dark mode:
+
+<img width="600" height="350" alt="Scherm­afbeelding 2026-11-19 om 16 57 33" src="https://github.com/user-attachments/assets/af94321f-7a7a-4626-982c-3af4a34cf7e5" />
+
+Voor light mode
+
+<img width="600" height="350" alt="Scherm­afbeelding 2026-11-19 om 16 58 56" src="https://github.com/user-attachments/assets/69204444-7851-4b37-90a4-5b23dbe01fed" />
+
+
 
 
 
