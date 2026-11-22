@@ -170,6 +170,46 @@ Voor light mode
 
 <img width="600" height="350" alt="Scherm­afbeelding 2026-11-19 om 16 58 56" src="https://github.com/user-attachments/assets/69204444-7851-4b37-90a4-5b23dbe01fed" />
 
+Daarnaast heb ik nog naar lettertypen gezocht
+
+<img width="362" height="347" alt="Scherm­afbeelding 2026-11-19 om 17 00 50" src="https://github.com/user-attachments/assets/8b43a19d-26ff-4132-9d4d-5e49ff551e62" />
+
+<img width="359" height="352" alt="Scherm­afbeelding 2026-11-19 om 17 00 33" src="https://github.com/user-attachments/assets/e923e0ec-9027-4777-87d9-ac9107636e32" />
+
+<img width="348" height="349" alt="Scherm­afbeelding 2026-11-19 om 17 00 40" src="https://github.com/user-attachments/assets/a90fc377-51b7-4c1a-84fb-8eaee96a5251" />
+
+
+
+
+<h1> 20 nov </h1>
+
+Huiswerk:
+
+Het was een beetje lastig maar het meeste is me wel gelukt. 
+
+<img width="600" height="300" alt="Scherm­afbeelding 2026-11-22 om 13 50 39" src="https://github.com/user-attachments/assets/2a3e8224-f5fb-4358-a49a-749ff04eb6cd" />
+
+<img width="600" height="300" alt="Scherm­afbeelding 2026-11-22 om 13 51 14" src="https://github.com/user-attachments/assets/0a2f92a5-6df9-40b4-9444-a0054414fea3" />
+
+<img width="600" height="300" alt="Scherm­afbeelding 2026-11-22 om 13 51 52" src="https://github.com/user-attachments/assets/454f8006-aa21-423b-83e3-4691f6e318f3" />
+
+
+<img width="600" height="300" alt="Scherm­afbeelding 2026-11-22 om 14 10 31" src="https://github.com/user-attachments/assets/ca283201-3ac6-4770-87ac-4a795db1bcdb" />
+
+<img width="600" height="300" alt="Scherm­afbeelding 2026-11-22 om 14 13 53" src="https://github.com/user-attachments/assets/8dcf209a-cf1a-45de-bd69-3a51e039b62c" />
+
+<img width="600" height="300" alt="Scherm­afbeelding 2026-11-22 om 14 57 49" src="https://github.com/user-attachments/assets/bbeade82-63ba-434c-ba56-04c89a8d2789" />
+
+<img width="600" height="300" alt="Scherm­afbeelding 2026-11-22 om 15 27 47" src="https://github.com/user-attachments/assets/3e73782c-7d5f-42cc-b834-2eae13c7bfea" />
+
+Feedback die ik heb gekregen: Idee ziet er goed uit, nu gewoon gaan beginnen.
+
+
+
+
+
+
+
 
 
 
