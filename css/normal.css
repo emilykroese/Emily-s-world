@@ -13,9 +13,14 @@
 * MARK: Custom properties
 **************************/
 
+
+
+
 html {
   color-scheme: light dark;
+ --achtergrond: light-dark(rgb(38, 75, 107), rgb(203, 173, 230));
 }
+
 
 /**************************
 * MARK: Algemene Styling
@@ -33,7 +38,12 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
+  background-color: var(--achtergrond);
+
+  
 }
+
+
 
 /**************************
 * MARK: Header
