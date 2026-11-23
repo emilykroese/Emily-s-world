@@ -39,7 +39,22 @@ html {
 }
 
 .headphones {
-  width: 40em;
+  width: 30em;
+  height: auto;
+}
+
+.popcorn {
+ width: 15em;
+  height: auto;
+}
+
+.noodles {
+ width: 15em;
+  height: auto;
+}
+
+.controller {
+   width: 20em;
   height: auto;
 }
 
