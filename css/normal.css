@@ -18,7 +18,7 @@
 
 html {
   color-scheme: light dark;
- --achtergrond: light-dark(rgb(38, 75, 107), rgb(203, 173, 230));
+ --achtergrond: light-dark(rgb(38, 75, 107), rgb(70, 47, 120));
  --bureau: light-dark(green, lightgreen);
  --achterwand: light-dark(purple, purple);
  --zijmuur: light-dark(blue, blue)
