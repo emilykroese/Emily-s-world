@@ -19,7 +19,12 @@
 html {
   color-scheme: light dark;
  --achtergrond: light-dark(rgb(38, 75, 107), rgb(203, 173, 230));
+ --bureau: light-dark(green, lightgreen);
+ --achterwand: light-dark(purple, purple);
+ --zijmuur: light-dark(blue, blue)
 }
+
+
 
 
 /**************************
@@ -30,18 +35,24 @@ html {
 *::after,
 *::before {
   box-sizing: border-box;
+  
 }
 
-img {
-  max-width: 100%;
+.headphones {
+  width: 40em;
+  height: auto;
 }
 
 body {
   font-family: "Comic Relief", system-ui;
   background-color: var(--achtergrond);
 
+  background-image: conic-gradient(
+    
+  );
   
 }
+
 
 
 
@@ -64,6 +75,9 @@ footer {
 **************************/
 
 main {
+
+max-width: ;
+
 }
 
 /**************************
