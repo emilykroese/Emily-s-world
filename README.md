@@ -76,7 +76,8 @@ Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital g
 ---------------
  <h1> 17 nov </h1>
 
-Hier heb ik de presentatie gemaakt. Dit heeft me geholpen om een beetje een beeld te creëren 
+Hier heb ik de presentatie gemaakt. Dit heeft me geholpen om een beetje een beeld te creëren. 
+Ik wil in mijn digital garden mijn favoriete games en films laten zien en misschien nog andere hobby's. Hier heb ik dus dingen die ik leuk vind bij elkaar gezet en ik heb geprobeerd om het een beetje in dezelfde kleurtoon te houden.
 
 
 <img width="800" height="600" alt="Scherm­afbeelding 2026-11-17 om 12 44 18" src="https://github.com/user-attachments/assets/17c31d62-c4f6-414d-ab9a-468b3bec9faf" />
@@ -160,7 +161,7 @@ Ik heb verschillende ideeen op schermen geschetst
 
 <img width="450" height="700" alt="WhatsApp Image 2026-11-20 at 09 02 44 (1)" src="https://github.com/user-attachments/assets/ba5794b3-c60d-4eb2-9352-0b19f76a424b" />
 
-Ik heb fonts en een kleurenpalet gemaakt
+Ik heb fonts en een kleurenpalet gemaakt. Ik ga voor een beetje game achtige kleuren dus groen blauw roze. Beetje een glitch effect wat past bij mijn idee. 
 
 Voor dark mode:
 
@@ -170,7 +171,7 @@ Voor light mode
 
 <img width="600" height="350" alt="Scherm­afbeelding 2026-11-19 om 16 58 56" src="https://github.com/user-attachments/assets/69204444-7851-4b37-90a4-5b23dbe01fed" />
 
-Daarnaast heb ik nog naar lettertypen gezocht
+Daarnaast heb ik nog naar lettertypen gezocht. Ik ga voor een pixel lettertype omdat ik mijn digital garden in een game stijl wil maken. Hier heb ik dan dus drie verschillende fonts voor gevonden.
 
 <img width="362" height="347" alt="Scherm­afbeelding 2026-11-19 om 17 00 50" src="https://github.com/user-attachments/assets/8b43a19d-26ff-4132-9d4d-5e49ff551e62" />
 
@@ -212,7 +213,7 @@ Dit was hoe de site er eerst uitzag, hier heb ik gewoon de achtergrondkleur vera
 
 <img width="580" height="355" alt="Scherm­afbeelding 2026-11-22 om 16 38 43" src="https://github.com/user-attachments/assets/77fd8eb6-ac4b-49df-9af7-f88540029dd8" />
 
-Hier heb ik in de app "pikselart" elementen voor mijn digital garden getekend. Voor de popcorn bucket had ik alvast ook een dark en een light mode versie gemaakt.
+Hier heb ik in de app "pikselart" elementen voor mijn digital garden getekend. Voor de popcorn bucket had ik alvast ook een dark en een light mode versie gemaakt. Ik heb een playstation controller, een noodle cup, headphones en popcorn gemaakt. Dit zijn alvast wat elementen die ik in mijn website ga zetten. Over al deze dingen kan ik iets vertellen. Ik wil dat wanneer de gebruiker erop klikt een korte tekst tevoorschijn komt met een toelichting. Dat is het idee eigenlijk een beetje. En dat al deze dingen op een bureau staan. Ik ga nog een computer maken en ik wil ook nog een raampje maken waarin je licht en dark mode kunt kiezen. 
 
 <img width="680" height="415" alt="Scherm­afbeelding 2026-11-23 om 13 20 19" src="https://github.com/user-attachments/assets/1ab80cef-4b80-4d7d-89e7-979085030253" />
 
