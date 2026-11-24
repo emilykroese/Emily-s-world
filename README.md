@@ -208,7 +208,11 @@ Feedback die ik heb gekregen: Idee ziet er goed uit, nu gewoon gaan beginnen.
 
 Ik wil pixel art gaan maken voor mijn digital garden dus daar ben ik nu mee begonnen:
 
+Dit was hoe de site er eerst uitzag, hier heb ik gewoon de achtergrondkleur veranderd.
+
 <img width="580" height="355" alt="Scherm­afbeelding 2026-11-22 om 16 38 43" src="https://github.com/user-attachments/assets/77fd8eb6-ac4b-49df-9af7-f88540029dd8" />
+
+Hier heb ik in de app "pikselart" elementen voor mijn digital garden getekend. Voor de popcorn bucket had ik alvast ook een dark en een light mode versie gemaakt.
 
 <img width="680" height="415" alt="Scherm­afbeelding 2026-11-23 om 13 20 19" src="https://github.com/user-attachments/assets/1ab80cef-4b80-4d7d-89e7-979085030253" />
 
