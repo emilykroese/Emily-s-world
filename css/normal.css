@@ -19,9 +19,11 @@
 html {
   color-scheme: light dark;
  --achtergrond: light-dark(rgb(38, 75, 107), rgb(70, 47, 120));
- --bureau: light-dark(green, lightgreen);
- --achterwand: light-dark(purple, purple);
- --zijmuur: light-dark(blue, blue)
+ --bureau: light-dark(rgb(44, 27, 1), rgb(42, 22, 6));
+ --achterwand: light-dark(rgb(72, 34, 0), rgb(98, 153, 169));
+ --zijmuur: light-dark(rgb(72, 34, 0), rgb(45, 72, 80));
+ --lijn: light-dark(rgb(72, 34, 0), rgb(28, 45, 50));
+
 }
 
 
@@ -60,14 +62,53 @@ html {
 
 body {
   font-family: "Comic Relief", system-ui;
-  background-color: var(--achtergrond);
+  margin: 0;
+  min-height: 100vh;
+  position: relative;
+  isolation: isolate;
 
-  background-image: conic-gradient(
-    
+  /* 2 muren */
+  background: linear-gradient(
+    90deg,
+    var(--achterwand) 0%,
+    var(--achterwand)60%,
+    var(--zijmuur) 60%,
+   var(--zijmuur) 100%
   );
-  
 }
 
+/* hoek */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+
+  background: linear-gradient(
+    90deg,
+    transparent 59.7%,
+    var(--lijn) 60%,
+    transparent 60.3%
+  );
+}
+
+/* bureau */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+
+  background: var(--bureau);
+
+  clip-path: polygon(
+    0 80%,
+    60% 60%,
+    100% 80%,
+    100% 100%,
+    0 100%
+  );
+}
 
 
 
