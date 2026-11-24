@@ -220,6 +220,17 @@ Ik wil pixel art gaan maken voor mijn digital garden dus daar ben ik nu mee bego
 
 <img width="450" height="400" alt="Scherm_afbeelding 2026-11-23 om 17 51 02" src="https://github.com/user-attachments/assets/979fc020-8505-4454-a8d3-50689b0de346" />
 
+<h1> practicum </h1>
+
+Ik heb de afbeeldingen op deze manier in mijn digital garden gestopt, dit sluit ook aan op het practicum. 
+
+<img width="1040" height="227" alt="Scherm­afbeelding 2026-11-24 om 15 01 11" src="https://github.com/user-attachments/assets/a2cea636-8a46-4357-8bf2-c3768f9bc6ec" />
+
+En op deze manier heb ik ze aangepast:
+
+<img width="265" height="438" alt="Scherm­afbeelding 2026-11-24 om 15 02 33" src="https://github.com/user-attachments/assets/3ae9e31e-260c-4193-969d-9b429726c3bb" />
+
+
 
 
 
