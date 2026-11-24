@@ -204,6 +204,28 @@ Het was een beetje lastig maar het meeste is me wel gelukt.
 
 Feedback die ik heb gekregen: Idee ziet er goed uit, nu gewoon gaan beginnen.
 
+<h1> 23 nov </h1>
+
+Ik wil pixel art gaan maken voor mijn digital garden dus daar ben ik nu mee begonnen:
+
+<img width="580" height="355" alt="Scherm­afbeelding 2026-11-22 om 16 38 43" src="https://github.com/user-attachments/assets/77fd8eb6-ac4b-49df-9af7-f88540029dd8" />
+
+<img width="680" height="415" alt="Scherm­afbeelding 2026-11-23 om 13 20 19" src="https://github.com/user-attachments/assets/1ab80cef-4b80-4d7d-89e7-979085030253" />
+
+<img width="680" height="415" alt="Scherm­afbeelding 2026-11-23 om 13 49 58" src="https://github.com/user-attachments/assets/b6e6d32e-b469-4dd6-bfe9-aeb707a6e6df" />
+
+<img width="680" height="415" alt="Scherm­afbeelding 2026-11-23 om 15 11 47" src="https://github.com/user-attachments/assets/7cd4ff6b-e6fa-4eb8-aa62-1ef84a1ad25b" />
+
+<img width="680" height="415" alt="Scherm­afbeelding 2026-11-23 om 15 15 20" src="https://github.com/user-attachments/assets/34b529c3-3869-4b7b-85c5-5dd5b1698db4" />
+
+<img width="450" height="400" alt="Scherm_afbeelding 2026-11-23 om 17 51 02" src="https://github.com/user-attachments/assets/979fc020-8505-4454-a8d3-50689b0de346" />
+
+
+
+
+
+
+
 
 
 
