@@ -276,6 +276,11 @@ Ik heb de tv in een retro stijl gemaakt omdat ik wil dat mijn digital garden die
 <img width="650" height="420" alt="Scherm­afbeelding 2026-11-25 om 16 25 03" src="https://github.com/user-attachments/assets/c3abfddc-a435-4ad9-aefa-518dd3d1c0bc" />
 
 
+Ook heb ik dit weer een beetje in een plek ingedeeld
+
+<img width="300" height="200" alt="Scherm­afbeelding 2026-11-25 om 16 48 40" src="https://github.com/user-attachments/assets/b49d87cf-3fd1-47cf-b831-8a879ed3db9a" />
+
+
 
 
 
