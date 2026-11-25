@@ -24,6 +24,8 @@ html {
  --zijmuur: light-dark(rgb(9, 206, 206), rgb(45, 72, 80));
  --lijn: light-dark(rgb(0, 102, 102), rgb(28, 45, 50));
 
+  @media (prefers-color-scheme:dark) 
+
 }
 
 html:has( [value="light-theme"]:checked ) {
@@ -154,14 +156,14 @@ max-width: ;
 
 /* headphones */
 
-li:nth-of-type(1) button {
+li:nth-of-type(5) button {
    height:20em;
   aspect-ratio:780/842;
   background-color:transparent ;
   border: none;
   position: relative;
  left: 4px;
-  top: 250px;
+  bottom: 1050px;
   width: 35em;
   height: auto;
 
@@ -179,20 +181,21 @@ li:nth-of-type(1) button {
 /* controller */
 
 li:nth-of-type(2) button {
-   height:20em;
+  
+  
   aspect-ratio:438/394;
   background-color:transparent ;
   border:none;
   position: relative;
- left: 300px;
-  bottom: 200px;
+  left: 450px;
+  bottom: 50px;
 
    background-image: 
     light-dark(
       url("../images/ps5\ controller\ pixel.png"),
       url("../images/ps5\ controller-dark.png"));
 
-      width: 30em;
+      width: 25em;
       height: auto;
 
   background-size: contain;
@@ -207,8 +210,8 @@ li:nth-of-type(3) button {
   background-color:transparent ;
   border: none;
   position: relative;
-  left: 900px;
-  bottom: 600px;
+  left: 370px;
+  bottom: 570px;
 
   background-image: 
     light-dark(
@@ -234,8 +237,8 @@ li:nth-of-type(4) button {
   background-color:transparent ;
   border: none;
   position: relative;
-  left: 1200px;
-  bottom: 900px;
+  left: 1100px;
+  bottom: 750px;
 
   background-image: 
     light-dark(
@@ -247,6 +250,31 @@ li:nth-of-type(4) button {
     
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+/* tv */
+
+
+li:nth-of-type(1) button {
+  
+  aspect-ratio:618/470;
+  background-color:transparent ;
+  border: none;
+  position: relative;
+  width: 45em;
+  height: auto;
+  left: 500px;
+  bottom: -100px;
+
+   background-image: 
+    light-dark(
+      url("../images/tv-light.png"),
+      url("../images/tv-dark.png"));
+
+          
+  background-size: contain;
+  background-repeat: no-repeat;
+
 }
 
 ul{
