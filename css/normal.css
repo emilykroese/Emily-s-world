@@ -19,12 +19,21 @@
 html {
   color-scheme: light dark;
  --achtergrond: light-dark(rgb(38, 75, 107), rgb(70, 47, 120));
- --bureau: light-dark(rgb(44, 27, 1), rgb(42, 22, 6));
- --achterwand: light-dark(rgb(72, 34, 0), rgb(98, 153, 169));
- --zijmuur: light-dark(rgb(72, 34, 0), rgb(45, 72, 80));
- --lijn: light-dark(rgb(72, 34, 0), rgb(28, 45, 50));
+ --bureau: light-dark(rgb(130, 77, 33), rgb(42, 22, 6));
+ --achterwand: light-dark(rgb(182, 249, 220), rgb(98, 153, 169));
+ --zijmuur: light-dark(rgb(9, 206, 206), rgb(45, 72, 80));
+ --lijn: light-dark(rgb(0, 102, 102), rgb(28, 45, 50));
 
 }
+
+html:has( [value="light-theme"]:checked ) {
+  color-scheme:light;
+}
+
+html:has( [value="dark-theme"]:checked ) {
+  color-scheme:dark;
+}
+
 
 
 
@@ -32,6 +41,7 @@ html {
 /**************************
 * MARK: Algemene Styling
 **************************/
+
 
 *,
 *::after,
@@ -112,6 +122,8 @@ body::after {
 
 
 
+
+
 /**************************
 * MARK: Header
 **************************/
@@ -139,3 +151,104 @@ max-width: ;
 /**************************
 * MARK: Section ...
 **************************/
+
+/* headphones */
+
+li:nth-of-type(1) button {
+   height:20em;
+  aspect-ratio:780/842;
+  background-color:transparent ;
+  border: none;
+  position: relative;
+ left: 4px;
+  top: 250px;
+  width: 35em;
+  height: auto;
+
+   background-image: 
+    light-dark(
+      url("../images/headphones-light.png"),
+      url("../images/headphones.png"));
+
+          
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+
+/* controller */
+
+li:nth-of-type(2) button {
+   height:20em;
+  aspect-ratio:438/394;
+  background-color:transparent ;
+  border:none;
+  position: relative;
+ left: 300px;
+  bottom: 200px;
+
+   background-image: 
+    light-dark(
+      url("../images/ps5\ controller\ pixel.png"),
+      url("../images/ps5\ controller-dark.png"));
+
+      width: 30em;
+      height: auto;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* popcorn */
+
+li:nth-of-type(3) button {
+  height:20em;
+  aspect-ratio:334/446;
+  background-color:transparent ;
+  border: none;
+  position: relative;
+  left: 900px;
+  bottom: 600px;
+
+  background-image: 
+    light-dark(
+      url("../images/popcorn-img-light.png"),
+      url("../images/popcorn-img-dark.png")
+    );
+
+    
+    
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+ul{
+  list-style-type: none;
+}
+
+/* noodles */
+
+li:nth-of-type(4) button {
+  height:20em;
+  aspect-ratio:894/808;
+  background-color:transparent ;
+  border: none;
+  position: relative;
+  left: 1200px;
+  bottom: 900px;
+
+  background-image: 
+    light-dark(
+      url("../images/noodles-light.png"),
+      url("../images/noodles.png")
+    );
+
+    
+    
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+ul{
+  list-style-type: none;
+}
