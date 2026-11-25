@@ -268,6 +268,20 @@ Toen ben ik verder gegaan met dit ook weer goed neerzetten in mijn digital garde
 
 
 
+Ik wil ook nog een tv maken die heb ik hier getekend. Ook hiervoor maak ik een light en dark mode versie.
+Ik heb de tv in een retro stijl gemaakt omdat ik wil dat mijn digital garden die vibe een beetje krijgt. Ik moet nu nog de fonts erin zetten om ook een bijpassend lettertype te krijgen.
+
+<img width="650" height="420" alt="Scherm­afbeelding 2026-11-25 om 16 22 54" src="https://github.com/user-attachments/assets/2346376a-04f8-4bb1-a2d0-cdf2a0420d4f" />
+
+<img width="650" height="420" alt="Scherm­afbeelding 2026-11-25 om 16 25 03" src="https://github.com/user-attachments/assets/c3abfddc-a435-4ad9-aefa-518dd3d1c0bc" />
+
+
+Ook heb ik dit weer een beetje in een plek ingedeeld
+
+<img width="300" height="180" alt="Scherm­afbeelding 2026-11-25 om 16 48 40" src="https://github.com/user-attachments/assets/b49d87cf-3fd1-47cf-b831-8a879ed3db9a" />
+
+<img width="300" height="180" alt="Scherm­afbeelding 2026-11-25 om 16 48 45" src="https://github.com/user-attachments/assets/84e3e6c8-36d2-4e66-a5b6-7d6e91fbd301" />
+
 
 
 
