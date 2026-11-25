@@ -280,3 +280,14 @@ li:nth-of-type(1) button {
 ul{
   list-style-type: none;
 }
+
+li button {
+  transition: filter 0.3s ease;
+}
+
+li button:hover {
+  
+  filter: 
+      drop-shadow(0 0 10px light-dark(rgb(255, 247, 19), rgb(255, 0, 255)))
+      drop-shadow(0 0 20px light-dark(rgb(255, 247, 19), rgb(255, 0, 255)));
+}
