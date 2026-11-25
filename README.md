@@ -235,6 +235,44 @@ En op deze manier heb ik ze aangepast:
 
 <img width="265" height="438" alt="Scherm­afbeelding 2026-11-24 om 15 02 33" src="https://github.com/user-attachments/assets/3ae9e31e-260c-4193-969d-9b429726c3bb" />
 
+<h1> 25 nov </h1>
+
+ik ben dingen een beetje goed gaan plaatsen in de kamer. Het is wel lastig en ik snap ook nog steeds niet hoe ik het responsive moet maken.
+
+<img width="375" height="200" alt="Scherm­afbeelding 2026-11-24 om 13 47 33" src="https://github.com/user-attachments/assets/5a448a5c-0e45-4f0b-8027-7e7fa1da352e" />
+
+Ik heb wel een light en dark mode toegevoegd. Hiervoor heb ik het practicum op DLO voor teruggelezen. 
+
+<img width="250" height="100" alt="Scherm­afbeelding 2026-11-25 om 09 11 50" src="https://github.com/user-attachments/assets/f1ac465f-d29e-46f2-86b7-4b01b1a8af05" />
+
+Ik moest wel online nog even onderzoeken hoe bepaalde dingen moesten, dat heb ik hier gedaan.
+
+<img width="500" height="350" alt="Scherm­afbeelding 2026-11-25 om 10 01 39" src="https://github.com/user-attachments/assets/9803c97e-d86e-4291-97b9-3d1aa4979064" />
+
+Daarna heb ik ervoor gezorgd door hulp van een docent verschillende plaatsjes in light en dark mode te kunnen hebben. Ik heb daarvoor voor elk object dat ik getekend had een dark en light versie gemaakt.
+
+<img width="230" height="200" alt="Scherm­afbeelding 2026-11-25 om 10 23 19" src="https://github.com/user-attachments/assets/e5f6bfe2-a39e-41f0-86ed-a7532ff5b39e" />
+
+<img width="500" height="120" alt="Scherm­afbeelding 2026-11-25 om 10 23 26" src="https://github.com/user-attachments/assets/9c39a25a-8bc0-440c-9df9-cfaae93ba0af" />
+
+Hier heb ik in een app de objecten ook allemaal een light modus gegeven. Ik heb hierbij het kleurenpalet gebruikt die ik eerder al gemaakt had:
+
+<img width="580" height="400" alt="Scherm­afbeelding 2026-11-25 om 15 46 15" src="https://github.com/user-attachments/assets/2e955368-9024-45f3-b1d5-62f175a27866" />
+
+<img width="700" height="420" alt="Scherm­afbeelding 2026-11-25 om 15 46 24" src="https://github.com/user-attachments/assets/ebf15c10-a6e3-4c34-b5fd-20b590496ef5" />
+
+<img width="700" height="450" alt="Scherm­afbeelding 2026-11-25 om 15 46 29" src="https://github.com/user-attachments/assets/443f5988-de5a-4cc7-a5fa-77e249080a91" />
+
+Toen ben ik verder gegaan met dit ook weer goed neerzetten in mijn digital garden
+<img width="750" height="430" alt="Scherm­afbeelding 2026-11-25 om 15 49 39" src="https://github.com/user-attachments/assets/e5b49cc0-e173-421f-8ded-255e597d631c" />
+
+
+
+
+
+
+
+
 
 
 
