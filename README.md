@@ -263,6 +263,9 @@ Hier heb ik in een app de objecten ook allemaal een light modus gegeven. Ik heb 
 
 <img width="700" height="450" alt="Scherm­afbeelding 2026-11-25 om 15 46 29" src="https://github.com/user-attachments/assets/443f5988-de5a-4cc7-a5fa-77e249080a91" />
 
+Toen ben ik verder gegaan met dit ook weer goed neerzetten in mijn digital garden
+<img width="750" height="430" alt="Scherm­afbeelding 2026-11-25 om 15 49 39" src="https://github.com/user-attachments/assets/e5b49cc0-e173-421f-8ded-255e597d631c" />
+
 
 
 
