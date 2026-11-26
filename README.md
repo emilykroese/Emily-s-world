@@ -308,6 +308,15 @@ Ik heb echt meerdere sites doorzocht maar kom er niet uit
 
 <img width="225" height="200" alt="Scherm­afbeelding 2026-11-26 om 11 03 32" src="https://github.com/user-attachments/assets/76ace251-d0ac-4165-835a-9374cf4825a1" />
 
+Ik heb een raam toegevoegd voor light en dark mode
+
+<img width="325" height="210" alt="Scherm­afbeelding 2026-11-26 om 12 33 10" src="https://github.com/user-attachments/assets/7c423cd4-08a5-41dd-a888-8705e57bb3e7" />
+
+<img width="325" height="210" alt="Scherm­afbeelding 2026-11-26 om 12 38 14" src="https://github.com/user-attachments/assets/b3dc56ba-aebe-4a52-b79d-4a09e546f098" />
+
+
+
+
 
 
 
