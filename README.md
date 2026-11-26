@@ -283,6 +283,43 @@ Ook heb ik dit weer een beetje in een plek ingedeeld
 <img width="300" height="180" alt="Scherm­afbeelding 2026-11-25 om 16 48 45" src="https://github.com/user-attachments/assets/84e3e6c8-36d2-4e66-a5b6-7d6e91fbd301" />
 
 
+Ik heb een hoover functie toegevoegd voor light en dark mode
+
+<img width="325" height="210" alt="Scherm­afbeelding 2026-11-25 om 17 18 00" src="https://github.com/user-attachments/assets/36f2d843-3772-43aa-9528-18a2538d738b" />
+
+<img width="325" height="210" alt="Scherm­afbeelding 2026-11-26 om 10 58 55" src="https://github.com/user-attachments/assets/1587b964-2b23-49be-a85d-b2e8572c882e" />
+
+
+Dit is de code die ik daarvoor gebruikt heb.
+
+<img width="270" height="120" alt="Scherm­afbeelding 2026-11-25 om 17 18 28" src="https://github.com/user-attachments/assets/20274413-755a-40dd-876d-87fc85510d84" />
+
+<img width="300" height="210" alt="Scherm­afbeelding 2026-11-26 om 11 02 37" src="https://github.com/user-attachments/assets/22c52f6c-ab7f-474d-a889-886c5b95dc15" />
+
+Ik ben verder gegaan met het proberen responsive te maken van mijn website. Ik ben hier zeker uren mee bezig geweest maar het lukt mij alsnog niet om het te fixen. Het is het beste dat ik het aan een docent vraag op locatie denk ik. 
+
+Ik heb echt meerdere sites doorzocht maar kom er niet uit 
+
+
+
+<img width="250" height="200" alt="Scherm­afbeelding 2026-11-26 om 11 02 20" src="https://github.com/user-attachments/assets/4042d686-785d-400f-9c4b-57ca72f39d1f" />
+
+<img width="325" height="200" alt="Scherm­afbeelding 2026-11-26 om 11 01 52" src="https://github.com/user-attachments/assets/96b24ee3-73bd-4c12-80d5-1678ce1e329d" />
+
+<img width="225" height="200" alt="Scherm­afbeelding 2026-11-26 om 11 03 32" src="https://github.com/user-attachments/assets/76ace251-d0ac-4165-835a-9374cf4825a1" />
+
+Ik heb een raam toegevoegd voor light en dark mode
+
+<img width="325" height="210" alt="Scherm­afbeelding 2026-11-26 om 12 33 10" src="https://github.com/user-attachments/assets/7c423cd4-08a5-41dd-a888-8705e57bb3e7" />
+
+<img width="325" height="210" alt="Scherm­afbeelding 2026-11-26 om 12 38 14" src="https://github.com/user-attachments/assets/b3dc56ba-aebe-4a52-b79d-4a09e546f098" />
+
+
+
+
+
+
+
 
 
 
