@@ -79,6 +79,9 @@ body {
   position: relative;
   isolation: isolate;
 
+    /* overflow-x: hidden;
+    overflow-y: hidden; 
+
   /* 2 muren */
   background: linear-gradient(
     90deg,
@@ -273,7 +276,30 @@ li:nth-of-type(1) button {
 
           
   background-size: contain;
+  background-repeat: no-repeat; 
+
+}
+
+li:nth-of-type(6) button {
+  
+  aspect-ratio:1238/934;
+  background-color:transparent ;
+  border: none;
+  position: relative;
+  width: 60em;
+  height: auto;
+  left: 900px;
+  bottom: 2000px;
+
+   background-image: 
+    light-dark(
+      url("../images/window-light.png"),
+      url("../images/window-dark.png"));
+
+          
+  background-size: contain;
   background-repeat: no-repeat;
+    z-index: -1;
 
 }
 
@@ -291,3 +317,7 @@ li button:hover {
       drop-shadow(0 0 10px light-dark(rgb(255, 247, 19), rgb(255, 0, 255)))
       drop-shadow(0 0 20px light-dark(rgb(255, 247, 19), rgb(255, 0, 255)));
 }
+
+
+
+
