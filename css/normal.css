@@ -14,7 +14,16 @@
 **************************/
 
 
-
+ul {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+  width: 100%;
+  height: 100vh;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
 
 html {
   color-scheme: light dark;
@@ -24,7 +33,7 @@ html {
  --zijmuur: light-dark(rgb(9, 206, 206), rgb(45, 72, 80));
  --lijn: light-dark(rgb(0, 102, 102), rgb(28, 45, 50));
 
-  @media (prefers-color-scheme:dark) 
+  @media (prefers-color-scheme:dark);
 
 }
 
@@ -52,37 +61,19 @@ html:has( [value="dark-theme"]:checked ) {
   
 }
 
-.headphones {
-  width: 30em;
-  height: auto;
-}
 
-.popcorn {
- width: 15em;
-  height: auto;
-}
 
-.noodles {
- width: 15em;
-  height: auto;
-}
-
-.controller {
-   width: 20em;
-  height: auto;
-}
 
 body {
   font-family: "Comic Relief", system-ui;
   margin: 0;
-  min-height: 100vh;
+  width: 100%;
+  min-width: 0;
+  overflow-x: hidden;
   position: relative;
   isolation: isolate;
 
   
-
-     overflow-x: hidden;
-    overflow-y: hidden; 
 
   /* 2 muren */
   background: linear-gradient(
@@ -151,8 +142,8 @@ footer {
 
 main {
 
-max-width: ;
-
+  width: 100%;
+  min-width: 0;
 }
 
 /**************************
@@ -161,29 +152,162 @@ max-width: ;
 
 /* headphones */
 
+/* Standaard: light mode */
+.headphones img {
+  content: url("../images/headphones-light.png");
+}
+
+/* Dark mode */
+html:has([value="dark-theme"]:checked) .headphones img {
+  content: url("../images/headphones.png");
+}
+
+.headphones{
+  border: none;
+  position: absolute;
+  left: calc(50% - 60em);
+  top: 40vh;
+  width: 35em;
+  height: auto;
+  background: transparent;
+   z-index: 2;
+
+}
+
+
+picture, img{
+  max-width: 100%;
+}
+
+.controller{
+  position: absolute;
+  left: calc(50% - 30em);
+  top: 50vh;
+  width: 30em;
+  border: none;
+  background: transparent;
+     z-index: 3;
+}
+
+/* Standaard: light mode */
+.controller img {
+  content: url("../images/ps5 controller pixel.png");
+}
+
+/* Dark mode */
+html:has([value="dark-theme"]:checked) .controller img {
+  content: url("../images/ps5 controller-dark.png");
+}
+nav{
+  background-color: transparent;
+  position: relative;
+  min-height: 100%;
+}
+nav ul,nav ul li{
+display:contents;
+
+}
+.popcorn{
+  position: absolute;
+  left: calc(50% - 30em);
+  top: 23vh;
+  width: 18em;
+  border: none;
+  background: transparent;
+   z-index: 1;
+}
+
+/* Popcorn: light mode */
+.popcorn img {
+  content: url("../images/popcorn-img-light.png");
+}
+
+/* Popcorn: dark mode */
+html:has([value="dark-theme"]:checked) .popcorn img {
+  content: url("../images/popcorn-img-dark.png");
+}
+
+.noodles{
+  position: absolute;
+  right: calc(50% - 50em);
+  top: 30vh;
+  width: 25em;
+  border: none;
+  background: transparent;
+   z-index: 2;
+}
+
+/* Noodles: light mode */
+.noodles img {
+  content: url("../images/noodles-light.png");
+}
+
+/* Noodles: dark mode */
+html:has([value="dark-theme"]:checked) .noodles img {
+  content: url("../images/noodles.png");
+}
+
+.tv{
+  position: absolute;
+  right: calc(50% - 25em);
+  top: 15vh;
+  width: 40em;
+  border: none;
+  background: transparent;
+    z-index: 2;
+}
+
+/* TV: light mode */
+.tv img {
+  content: url("../images/tv-light.png");
+}
+
+/* TV: dark mode */
+html:has([value="dark-theme"]:checked) .tv img {
+  content: url("../images/tv-dark.png");
+}
+
+.raam{
+  position: absolute;
+  right: calc(50% - 70em);
+  top: -10vh;
+  width: 60em;
+  border: none;
+  background: transparent;
+  z-index: 0;
+}
+
+/* Raam - licht */
+.raam img {
+  content: url("../images/window-light.png");
+}
+
+/* Raam - donker */
+html:has([value="dark-theme"]:checked) .raam img {
+  content: url("../images/window-dark.png");
+}
+
+/*
 li:nth-of-type(5) button {
-   height:20em;
+  height:20em;
   aspect-ratio:780/842;
-  background-color:transparent ;
+  background-color:transparent;
   border: none;
   position: relative;
- left: 4px;
+  left: 4px;
   bottom: 1050px;
   width: 35em;
   height: auto;
 
-   background-image: 
-    light-dark(
-      url("../images/headphones-light.png"),
-      url("../images/headphones.png"));
+
 
           
   background-size: contain;
   background-repeat: no-repeat;
 
 }
-
-/* controller */
+*/
+/* controller 
 
 li:nth-of-type(2) button {
   
@@ -206,9 +330,10 @@ li:nth-of-type(2) button {
   background-size: contain;
   background-repeat: no-repeat;
 }
+  */
 
 /* popcorn */
-
+/*
 li:nth-of-type(3) button {
   height:20em;
   aspect-ratio:334/446;
@@ -229,13 +354,14 @@ li:nth-of-type(3) button {
   background-size: contain;
   background-repeat: no-repeat;
 }
+*/ 
 
 ul{
   list-style-type: none;
 }
-
+/*
 /* noodles */
-
+/*
 li:nth-of-type(4) button {
   height:20em;
   aspect-ratio:894/808;
@@ -256,10 +382,10 @@ li:nth-of-type(4) button {
   background-size: contain;
   background-repeat: no-repeat;
 }
-
+*/
 /* tv */
 
-
+/*
 li:nth-of-type(1) button {
   
   aspect-ratio:618/470;
@@ -281,7 +407,9 @@ li:nth-of-type(1) button {
   background-repeat: no-repeat; 
 
 }
-
+*/
+/* raam */
+/*
 li:nth-of-type(6) button {
   
   aspect-ratio:1238/934;
@@ -304,7 +432,7 @@ li:nth-of-type(6) button {
     z-index: -1;
 
 }
-
+*/
 ul{
   list-style-type: none;
 }
@@ -321,5 +449,228 @@ li button:hover {
 }
 
 
+/**************************
+* MARK: Responsive design
+**************************/
 
+/* kleinere desktops */
+@media screen and (max-width: 1200px) {
+
+  .headphones {
+    left: calc(50% - 40em);
+    width: 30em;
+    top: 45vh;
+    z-index: 3;
+  }
+
+  .controller {
+    left: calc(50% - 15em);
+    width: 25em;
+    z-index: 2;
+  }
+
+  .popcorn {
+    left: calc(50% - 23em);
+    width: 15em;
+    top: 30vh;
+    z-index: 2;
+
+  }
+
+  .noodles {
+    right: calc(50% - 35em);
+    width: 20em;
+    top:40vh;
+  }
+
+  .tv {
+    right: calc(50% - 17em);
+    width: 32em;
+    top: 20vh;
+    z-index: 1;
+  }
+
+  .raam {
+    right: calc(50% - 50em);
+    width: 45em;
+    top: -2vh;
+    z-index: 0;
+  }
+}
+
+
+/* Tablet */
+@media screen and (max-width: 800px) {
+
+  .headphones {
+    left: -1em;
+    top: 48vh;
+    width: 25em;
+      z-index: 3;
+  }
+
+  .controller {
+    left: 20em;
+    top: 57vh;
+    width: 20em;
+      z-index: 3;
+  }
+
+  .popcorn {
+    left: 12em;
+    top: 36vh;
+    width: 12em;
+     z-index: 2;
+  }
+
+  .noodles {
+    right: 1em;
+    top: 45vh;
+    width: 16em;
+  }
+
+  .tv {
+    right: 14em;
+    top: 30vh;
+    width: 27em;
+     z-index: 1;
+  }
+
+  .raam {
+    right: -10em;
+    top: 10vh;
+    width: 36em;
+     z-index: 0;
+  }
+}
+
+@media screen and (max-width: 700px) {
+
+  .headphones {
+    left: -1em;
+    top: 48vh;
+    width: 23em;
+      z-index: 3;
+  }
+
+  .controller {
+    left: 20em;
+    top: 57vh;
+    width: 20em;
+      z-index: 3;
+  }
+
+  .popcorn {
+    left: 5em;
+    top: 36vh;
+    width: 12em;
+     z-index: 2;
+  }
+
+  .noodles {
+    right: 1em;
+    top: 45vh;
+    width: 16em;
+  }
+
+  .tv {
+    right: 10em;
+    top: 30vh;
+    width: 27em;
+     z-index: 1;
+  }
+
+  .raam {
+    right: -15em;
+    top: 10vh;
+    width: 36em;
+     z-index: 0;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+
+  .headphones {
+    left: -1em;
+    top: 55vh;
+    width: 20em;
+      z-index: 3;
+  }
+
+  .controller {
+    left: 20em;
+    top: 62vh;
+    width: 17em;
+      z-index: 3;
+  }
+
+  .popcorn {
+    left: 5em;
+    top: 41vh;
+    width: 10em;
+     z-index: 2;
+  }
+
+  .noodles {
+    right: 1em;
+    top: 49vh;
+    width: 13em;
+  }
+
+  .tv {
+    right: 10em;
+    top: 30vh;
+    width: 24em;
+     z-index: 1;
+  }
+
+  .raam {
+    right: -12em;
+    top: 10vh;
+    width: 33em;
+     z-index: 0;
+  }
+}
+
+
+/* Telefoon */
+@media screen and (max-width: 500px) {
+
+  .headphones {
+    left: 1em;
+    top: 46vh;
+    width: 19em;
+  }
+
+  .controller {
+    left: 9em;
+    top: 60vh;
+    width: 15em;
+  }
+
+  .popcorn {
+    left: 6em;
+    top: 35vh;
+    width: 10em;
+  }
+
+  .noodles {
+    right: -3em;
+    top: 44vh;
+    width: 13em;
+  }
+
+  .tv {
+    right: 6em;
+    top: 27vh;
+    width: 23em;
+  }
+
+  .raam {
+    right: -8em;
+    top: 13vh;
+    width: 25em;
+  }
+}
 
